@@ -18,7 +18,7 @@ int main() {
     cout << "First name: " << David.getFirst() << endl;
     cout << "Account Number: " << David.getNum() << endl;
     cout << "Account Balance: " << David.getBal() << endl;
-    cout << "Account Password: " << David.getPass() << endl;
+    //cout << "Account Password: " << David.getPass() << endl;
 
     // Trying to change password
     David.changePass();
